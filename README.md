@@ -121,8 +121,8 @@
 
 ### 🎓 Education
 
-🎓 **MS in Computer Science** — Binghamton University, NY  
-🎓 **BE in Computer Science** — Savitribai Phule Pune University, India
+🎓 **MS in Computer Science** : Binghamton University, NY  
+🎓 **BE in Computer Science** : Savitribai Phule Pune University, India
 
 ---
 
