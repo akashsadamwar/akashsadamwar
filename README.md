@@ -74,7 +74,7 @@ Built with LlamaIndex and dual-store FAISS retrieval across five LLM backends, r
 ## Education
 
 - **MS, Computer Science** — Binghamton University, 2025
-- **BE, Electronics and Telecommunication Engineering** — Savitribai Phule Pune University, 2022
+  
 
 <div align="center">
   <sub>Building reliable systems where backend engineering, cloud infrastructure, and applied AI meet.</sub>
